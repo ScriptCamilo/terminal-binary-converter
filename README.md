@@ -1,5 +1,4 @@
-Manual
-Davyd Kaio, Misael Lucas, Rodrigo Camilo
+# Terminal Binary Converter
 Setembro 2018
 Após a abertura do menu inicial serão encontradas várias opções
 de escolha, ao digitar ”1” o programa irá ser direcionado a con-
@@ -14,3 +13,4 @@ menu inicial e seja digitado a palavra ”sair” o programa é fechado.
 Informações Gerais
 O seguinte programa foi desenvolvido utilizando a versão 3.6.5
 do python que é interpretado pelo interpretador CPython.
+<!-- Davyd Kaio, Misael Lucas, Rodrigo Camilo -->
